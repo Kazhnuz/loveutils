@@ -84,7 +84,7 @@ return nothing
 
 draw an half-transparent box with solid outline
 
-### loveutils.graphics.print(text, x, y, align, r, sx, sy, ox, oy, kx, ky)
+### loveutils.graphics.print
 
 ````loveutils.graphics.print(text, x, y, align, r, sx, sy, ox, oy, kx, ky)````
 
@@ -92,7 +92,7 @@ return nothing
 
 like love.graphics.print, but with alignement support.
 
-### loveutils.graphics.printWithSpacing(text, x, y, align, spacing, r, sx, sy, ox, oy, kx, ky)
+### loveutils.graphics.printWithSpacing
 
 ````loveutils.graphics.printWithSpacing(text, x, y, align, spacing)````
 
